@@ -4,10 +4,8 @@ As of right now, I know: Lua, Scratchblocks, Javascript & Python.
 I want to learn C# for games, and also TypeScript.
 
 
-[Scratch, Youtube] People you should support:
+[Scratch] People you should support:
 
 https://scratch.mit.edu/users/cs2958113
-
-https://scratch.mit.edu/users/Shmish21
 
 https://scratch.mit.edu/users/ne_la
