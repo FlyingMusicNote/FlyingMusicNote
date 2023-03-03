@@ -1,6 +1,6 @@
 Video editor and game developer!
 
-As of right now, I know: Lua, Scratchblocks, Javascript & Python.
+As of right now, I know: Lua, Scratchblocks, Javascript, Python, & HTML.
 I want to learn C# for games, and also TypeScript.
 
 
