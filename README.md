@@ -1,1 +1,1 @@
-Video editor and game developer!
+Video editor and programmer!
